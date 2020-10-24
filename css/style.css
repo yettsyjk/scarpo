@@ -6,3 +6,13 @@ body {
     text-align: center;
 
 }
+
+#container {
+    margin-top: 10%;
+    display: inline-block;
+}
+
+canvas {
+   background: #f06793; 
+   border: 1px solid #000;
+}
