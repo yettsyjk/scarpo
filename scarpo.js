@@ -6,7 +6,7 @@ function randomChoice(array){
     return array[Math.round( random(0, array.length - 1) ) ];
 }
 
-var InfiniteRunner = Sketch.create({
+let InfiniteRunner = Sketch.create({
     fullscreen: false,
     width: 640,
     height: 360,
